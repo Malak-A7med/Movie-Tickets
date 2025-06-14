@@ -47,6 +47,5 @@ All data is stored and managed in a connected relational database.
 
 ---
 
-> 👩‍💻 Developed by **Malak Ahmed**  
 > 📅 Time: December 2024  
 > 🧪 Educational Project – Still under development and open for updates
