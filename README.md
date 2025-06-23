@@ -23,6 +23,7 @@ This is a basic educational project to practice combining **GUI**, **Database**,
 
 - Add new movies to the system
 - Delete movies from the database
+- Adding search and filter features
 
 ### 👤 Employee Management
 
@@ -41,8 +42,6 @@ All data is stored and managed in a connected relational database.
 - Relational Database (MySQL)
 
 ## 🚀 Future Updates
-
-- Adding search and filter features
 - Refactoring code for better structure
 
 ---
